@@ -1,0 +1,54 @@
+repo_name: stackshareiodev/ad_30-Days-Of-Python
+report_id: c87ea854e9a99b954e6f613918cf7825
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-01T07:38:14+00:00'
+requested_by: Asabeneh
+provider: github
+branch: master
+detected_tools_count: 4
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/stackshareiodev/ad_30-Days-Of-Python
+  detection_source: Repo Metadata
+- name: Jinja
+  description: Full featured template engine for Python
+  website_url: https://palletsprojects.com/p/jinja/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/2303/New_Project__20_.png
+  detection_source_url: https://github.com/stackshareiodev/ad_30-Days-Of-Python/blob/master/python_for_web/requirements.txt
+  detection_source: python_for_web/requirements.txt
+  last_updated_by: Asabeneh
+  last_updated_on: 2019-12-15 02:02:33.000000000 Z
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/stackshareiodev/ad_30-Days-Of-Python
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/stackshareiodev/ad_30-Days-Of-Python
+  detection_source: Repo Metadata
